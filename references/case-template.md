@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 id: "새 UUID v4로 대체"
 title: "구체적인 결정이 드러나는 제목"
 project: null
@@ -10,6 +10,8 @@ status: candidate
 familiarity:
   codebase: unknown
   stack: unknown
+decided_by: unknown
+user_review: unknown
 tags: []
 ---
 
